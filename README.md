@@ -1,27 +1,156 @@
-# 💫 About Me:
-## 👋 Hey, I'm a Final-Year Computer Science Student!<br><br>I'm a final-year B.Tech Computer Science student passionate about software development, backend engineering, and building practical solutions to real-world problems. I enjoy developing full-stack applications, solving coding challenges, and continuously improving my engineering skills.<br><br>### 💻 About Me<br><br>- 🔭 **Currently working on:** SignalGuard — an application reliability and incident detection platform for monitoring API latency, error rates, traffic patterns, and application logs.<br>- 👯 **Looking to collaborate on:** Full-stack web applications, open-source projects, backend systems, and developer tools.<br>- 🤝 **Looking for help with:** Scalable backend architecture, system design, application security, and reliable deployment practices.<br>- 🌱 **Currently learning:** Advanced Data Structures & Algorithms, backend engineering, system design, and AI-powered application development.<br>- 💬 **Ask me about:** React.js, JavaScript, Node.js, Express.js, REST APIs, MySQL, JWT authentication, and full-stack development.<br>- ⚡ **Fun fact:** I enjoy turning real-world problems into practical software projects and learning something new with every build.<br><br>### 🎯 My Goal<br><br>To become a strong Software Development Engineer by building reliable applications, improving my problem-solving abilities, and learning how production-grade software systems are designed and developed.
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shivansh+Mittal!+%F0%9F%91%8B;Final-Year+Computer+Science+Student;Full-Stack+Developer;Backend+Engineering+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
+<!-- Introduction -->
+<h1 align="center">Hey there! 👋 I'm Shivansh Mittal</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivansh-mittal-63a7bb285/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@shivansh mittal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshcollege2@gmail.com) 
+<h3 align="center">
+  Final-Year B.Tech CSE Student | Aspiring Software Development Engineer
+</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shivanshcollege2-lang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shivanshcollege2-lang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivanshcollege2-lang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  Passionate about building practical software, solving challenging problems,
+  and learning how reliable applications are designed and developed.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shivanshcollege2-lang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shivanshcollege2-lang&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Social Links -->
+<p align="center">
+  <a href="https://github.com/shivanshcollege2-lang">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- Replace with your real LinkedIn profile URL -->
+  <a href="https://www.linkedin.com/in/shivansh-mittal-63a7bb285/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=shivanshcollege2-lang&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a final-year Computer Science and Engineering student interested in full-stack development, backend engineering, data structures and algorithms, and practical software problem-solving.
+
+I enjoy building applications that solve real problems, understanding how systems work behind the scenes, and improving my coding and engineering skills through hands-on projects.
+
+- 🔭 **Currently working on:** SignalGuard — an application reliability and incident detection platform.
+- 👯 **Looking to collaborate on:** Full-stack applications, backend systems, and open-source projects.
+- 🌱 **Currently learning:** Advanced DSA, backend engineering, system design, and AI-powered application development.
+- 💬 **Ask me about:** C++, JavaScript, React.js, Node.js, Express.js, REST APIs, MySQL, and JWT authentication.
+- 🎯 **Goal:** Become a strong Software Development Engineer by building reliable applications and improving my problem-solving skills.
+- ⚡ **Fun fact:** I enjoy turning complex problems into practical software projects and learning something new with every build.
+
+---
+
+## 🚀 Projects
+
+### 🔍 SignalGuard
+**Application Reliability & Incident Detection Platform** *(In Progress)*
+
+A monitoring platform designed to analyze API latency, error rates, traffic patterns, and application logs to identify abnormal service behavior.
+
+**Tech Stack:** React.js, Node.js, Express.js, Python, FastAPI, PostgreSQL
+
+### 🧾 InvoiceEye
+**Smart Invoice Verification System**
+
+An invoice-processing project designed to extract structured invoice data and verify it against purchase orders and vendor records, with discrepancy detection and explainable verification results.
+
+**Tech Stack:** React.js, Node.js, Express.js, MySQL, Python, OCR, JWT
+
+### ⚡ ChargeGrid
+**EV Charging Platform**
+
+A full-stack application for EV charging station discovery, charger selection, time-slot booking, and charging-session workflows.
+
+**Tech Stack:** React.js, Node.js, Express.js, MySQL, JWT
+
+### 🔐 AccessFlow
+**Campus Access Management Platform**
+
+A role-based application for campus pass requests, administrative approvals, and QR-based security verification.
+
+**Tech Stack:** React.js, Node.js, Express.js, MySQL, Google OAuth, JWT
+
+### 📊 DataPilot
+**CSV Analytics Application**
+
+A data analytics project focused on CSV ingestion, preprocessing, interactive visualization, and analytical reporting.
+
+**Tech Stack:** Python, data preprocessing, exploratory data analysis, data visualization
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivanshcollege2-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshcollege2-lang&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivanshcollege2-lang&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, collaborating on meaningful projects, and learning from the software engineering community.
+
+<p align="center">
+  <a href="https://github.com/shivanshcollege2-lang">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time. 🚀</i>
+</p>
