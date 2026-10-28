@@ -154,7 +154,49 @@ Currently developing practical skills in spreadsheet analysis, SQL queries, data
 </p>
 
 ---
+---
 
+## 🧩 LeetCode Journey
+
+<p align="center">
+  <a href="https://leetcode.com/u/xL9QwAR0eX/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-131%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="131 LeetCode problems solved"
+    />
+  </a>
+  <img
+    src="https://img.shields.io/badge/LeetCode-50%20Days%20Badge-00B8A9?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="LeetCode 50 Days Badge"
+  />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/xL9QwAR0eX/">
+    <img
+      src="https://leetcard.jacoblin.cool/xL9QwAR0eX?theme=dark&font=Fira_Code"
+      alt="LeetCode Statistics — Problems Solved and Ranking"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/xL9QwAR0eX/">
+    <img
+      src="https://leetcard.jacoblin.cool/xL9QwAR0eX?theme=dark&ext=heatmap"
+      alt="LeetCode Submission Activity Heatmap"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/xL9QwAR0eX/">
+    <img
+      src="https://img.shields.io/badge/Visit_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="Visit LeetCode Profile"
+    />
+  </a>
+</p>
 ## 📈 GitHub Statistics
 
 <p align="center">
