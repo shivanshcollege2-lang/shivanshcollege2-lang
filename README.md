@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&height=55&lines=WELCOME+TO+MY+DIGITAL+LAB;CODE+%E2%80%A2+ANALYZE+%E2%80%A2+INNOVATE;BUILDING+IDEAS+INTO+REALITY" alt="Welcome to my digital lab" />
 </p>
 
-<h1 align="center">Hey there! 👋 I'm Shivansh Mittal</h1>
-
-<h3 align="center">Final-Year B.Tech CSE Student | Aspiring Software Development Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=00D9A6&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer;Data+Analytics+Enthusiast;Backend+Engineering+Enthusiast;DSA+%26+Problem+Solving;Always+Learning%2C+Always+Building" alt="Professional titles" />
