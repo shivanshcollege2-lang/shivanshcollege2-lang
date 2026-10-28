@@ -5,15 +5,6 @@
 
 <!-- Introduction -->
 
-<h3 align="center">
-  Final-Year B.Tech CSE Student | Aspiring Software Development Engineer
-</h3>
-
-<p align="center">
-  Passionate about building practical software, solving challenging problems,
-  and learning how reliable applications are designed and developed.
-</p>
-
 <!-- Social Links -->
 <p align="center">
   <a href="https://github.com/shivanshcollege2-lang">
