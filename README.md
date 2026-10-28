@@ -4,7 +4,6 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hey there! 👋 I'm Shivansh Mittal</h1>
 
 <h3 align="center">
   Final-Year B.Tech CSE Student | Aspiring Software Development Engineer
