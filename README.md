@@ -66,6 +66,16 @@ An invoice-processing project designed to extract structured information from in
 
 ---
 
+### ✍️ BlogSphere — Full-Stack Blogging Platform
+
+A full-stack blogging platform designed to connect readers and writers through an editorial-style experience, enabling users to discover, search, publish, and manage articles with secure authentication and personalized author dashboards.
+
+Key areas: User authentication, blog publishing and management, category-based filtering, topic search, author profiles, CRUD operations, secure session management, and responsive UI.
+
+Tech Stack: React.js · Node.js · Express.js · MongoDB · Mongoose · JWT · Vite · Zod · bcryptjs
+
+---
+
 ### ⚡ ChargeGrid — EV Charging Platform
 
 A full-stack EV charging application supporting station discovery, charger selection, time-slot booking, and charging-session workflows.
