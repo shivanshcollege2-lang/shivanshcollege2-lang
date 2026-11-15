@@ -76,7 +76,7 @@ Tech Stack: React.js · Node.js · Express.js · MongoDB · Mongoose · JWT · V
 
 ---
 
-### ⚡ ChargeGrid — EV Charging Platform
+### ⚡ ChargeFlow — EV Charging Platform
 
 A full-stack EV charging application supporting station discovery, charger selection, time-slot booking, and charging-session workflows.
 
@@ -86,7 +86,7 @@ A full-stack EV charging application supporting station discovery, charger selec
 
 ---
 
-### 🔐 AccessFlow — Campus Access Management Platform
+### 🔐 CampusFlow — Campus Access Management Platform
 
 A role-based campus access-management application supporting pass requests, administrative approvals, and security verification workflows.
 
