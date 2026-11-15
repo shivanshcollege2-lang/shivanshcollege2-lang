@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=00D9A6&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer;Data+Analytics+Enthusiast;Backend+Engineering+Enthusiast;DSA+%26+Problem+Solving" alt="Professional titles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=00D9A6&center=true&vCenter=true&width=700&height=45&lines=Data+Analytics+Enthusiast;Backend+Engineering+Enthusiast" alt="Professional titles" />
 </p>
 
 <!-- ===================================================== -->
