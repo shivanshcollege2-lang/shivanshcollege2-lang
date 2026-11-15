@@ -3,7 +3,8 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&height=55&lines=WELCOME+TO+MY+DIGITAL+LAB;CODE+%E2%80%A2+ANALYZE+%E2%80%A2+INNOVATE;BUILDING+IDEAS+INTO+REALITY" alt="Welcome to My Software Engineering & Analytics Workspace" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&height=55&lines=WELCOME+TO+MY+SOFTWARE+ENGINEERING+%26+DATA+ANALYTICS+PLATFORM;ARCHITECT+%E2%80%A2+ANALYZE+%E2%80%A2+INNOVATE;ENGINEERING+SCALABLE+SOFTWARE+SOLUTIONS
+" alt="Welcome to My Software Engineering & Analytics Workspace" />
 </p>
 
 
