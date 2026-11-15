@@ -1,13 +1,28 @@
-<div align="center">
+<!-- ===================================================== -->
+<!--                 WELCOME ANIMATION                     -->
+<!-- ===================================================== -->
 
-# Shivansh Mittal
-### Final-Year B.Tech CSE Student (ADGIPS, GGSIPU) • Full-Stack Software Developer & Data Analyst
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&height=55&lines=WELCOME+TO+MY+DIGITAL+LAB;CODE+%E2%80%A2+ANALYZE+%E2%80%A2+INNOVATE;BUILDING+IDEAS+INTO+REALITY" alt="Welcome to my digital lab" />
+</p>
 
-*Building Scalable Software & Data-Driven Solutions — Where Clean Architecture Meets Practical Innovation*
 
-[GitHub](https://github.com) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com) &nbsp;•&nbsp; [LeetCode](https://leetcode.com) &nbsp;•&nbsp; [shivanshcollege2@gmail.com](mailto:shivanshcollege2@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=00D9A6&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer;Data+Analytics+Enthusiast;Backend+Engineering+Enthusiast;DSA+%26+Problem+Solving;Always+Learning%2C+Always+Building" alt="Professional titles" />
+</p>
 
-</div>
+<!-- ===================================================== -->
+<!--                     SOCIAL LINKS                      -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <a href="https://github.com/shivanshcollege2-lang">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivansh-mittal-63a7bb285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
@@ -86,32 +101,133 @@ Driven by clean architecture, structured problem-solving, and building scalable,
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **💻 Programming Languages** | `Python` · `C++` · `JavaScript (ES6+)` · `Java` · `SQL` |
-| **🎨 Frontend Development** | `React.js` · `HTML5` · `CSS3` · `Vite` |
-| **⚙️ Backend & Security** | `Node.js` · `Express.js` · `FastAPI` · `REST APIs` · `JWT` · `Google OAuth 2.0` |
-| **🗄️ Databases & Cloud** | `MySQL` · `PostgreSQL` · `MongoDB` · `Mongoose` · `Google Cloud (GCP)` · `Firebase` |
-| **📊 Data Analytics** | `Python (Pandas, NumPy)` · `Exploratory Data Analysis (EDA)` · `Power BI` · `Microsoft Excel` |
-| **🔧 Tools & Workflow** | `Git` · `GitHub` · `Postman` · `NPM` · `VS Code` |
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### 📊 Data Analytics — Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Microsoft Power BI"/>
+  <img src="https://img.shields.io/badge/Python_Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Analytics"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+Currently developing practical skills in spreadsheet analysis, SQL queries, data cleaning, exploratory data analysis, and dashboard visualization.
+
+### 🔧 Tools & Development Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
+---
 
-## 🧩 Coding Profiles & Achievements
+## 🧩 LeetCode Journey
 
-* **LeetCode:** [://leetcode.com](https://leetcode.com) — **131+ Problems Solved** | **50 Days Active Badge**
-* **GitHub:** [://github.com](https://github.com)
+<p align="center">
+  <a href="https://leetcode.com/u/xL9QwAR0eX/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-131%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="131 LeetCode problems solved"
+    />
+  </a>
+  <img
+    src="https://img.shields.io/badge/LeetCode-50%20Days%20Badge-00B8A9?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="LeetCode 50 Days Badge"
+  />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/xL9QwAR0eX/">
+    <img
+      src="https://leetcard.jacoblin.cool/xL9QwAR0eX?theme=dark&font=Fira_Code"
+      alt="LeetCode Statistics — Problems Solved and Ranking"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/xL9QwAR0eX/">
+    <img
+      src="https://leetcard.jacoblin.cool/xL9QwAR0eX?theme=dark&ext=heatmap"
+      alt="LeetCode Submission Activity Heatmap"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/xL9QwAR0eX/">
+    <img
+      src="https://img.shields.io/badge/Visit_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="Visit LeetCode Profile"
+    />
+  </a>
+</p>
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivanshcollege2-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshcollege2-lang&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivanshcollege2-lang&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to entry-level **Software Engineering, Full-Stack Development, and Data Analytics** roles, as well as technical collaborations.
+I'm interested in connecting with developers, collaborating on meaningful projects, and learning from the software engineering community.
 
-* **LinkedIn:** [://linkedin.com](https://linkedin.com)
-* **GitHub:** [://github.com](https://github.com)
-* **Email:** [shivanshcollege2@gmail.com](mailto:shivanshcollege2@gmail.com)
+<p align="center">
+  <a href="https://github.com/shivanshcollege2-lang">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivansh-mittal-63a7bb285/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+</p>
 
-<div align="center">
-  <i>Clean Architecture • Data-Driven Insights • Continuous Engineering 🚀</i>
-</div>
+<p align="center">
+  <i>Code. Analyze. Innovate. Keep building. 🚀</i>
+</p>
